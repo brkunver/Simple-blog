@@ -1,4 +1,4 @@
-//jshint esversion:6
+
 let _ = require("lodash");
 const express = require("express");
 const bodyParser = require("body-parser");
